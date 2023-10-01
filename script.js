@@ -1,4 +1,4 @@
-"use strict mode"
+"strict mode"
 
 //Se creará un simulador de una tienda online de Café, ya que formará parte de mi proyecto final.
 
